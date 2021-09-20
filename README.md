@@ -1,0 +1,2 @@
+# Kodluyoruz-Pratikler
+## Degiskenler (Variables)
