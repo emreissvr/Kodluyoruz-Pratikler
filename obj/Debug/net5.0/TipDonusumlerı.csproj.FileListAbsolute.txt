@@ -1,0 +1,16 @@
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\TipDonusumleri\obj\Debug\net5.0\TipDonusumlerı.csproj.AssemblyReference.cache
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\TipDonusumleri\obj\Debug\net5.0\TipDonusumlerı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\TipDonusumleri\obj\Debug\net5.0\TipDonusumlerı.AssemblyInfoInputs.cache
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\TipDonusumleri\obj\Debug\net5.0\TipDonusumlerı.AssemblyInfo.cs
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\TipDonusumleri\obj\Debug\net5.0\TipDonusumlerı.csproj.CoreCompileInputs.cache
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\TipDonusumleri\bin\Debug\net5.0\TipDonusumlerı.exe
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\TipDonusumleri\bin\Debug\net5.0\TipDonusumlerı.deps.json
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\TipDonusumleri\bin\Debug\net5.0\TipDonusumlerı.runtimeconfig.json
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\TipDonusumleri\bin\Debug\net5.0\TipDonusumlerı.runtimeconfig.dev.json
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\TipDonusumleri\bin\Debug\net5.0\TipDonusumlerı.dll
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\TipDonusumleri\bin\Debug\net5.0\ref\TipDonusumlerı.dll
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\TipDonusumleri\bin\Debug\net5.0\TipDonusumlerı.pdb
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\TipDonusumleri\obj\Debug\net5.0\TipDonusumlerı.dll
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\TipDonusumleri\obj\Debug\net5.0\ref\TipDonusumlerı.dll
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\TipDonusumleri\obj\Debug\net5.0\TipDonusumlerı.pdb
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\TipDonusumleri\obj\Debug\net5.0\TipDonusumlerı.genruntimeconfig.cache
