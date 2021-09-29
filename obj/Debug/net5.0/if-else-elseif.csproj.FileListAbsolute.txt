@@ -1,0 +1,16 @@
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\if-else-elseif\bin\Debug\net5.0\if-else-elseif.exe
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\if-else-elseif\bin\Debug\net5.0\if-else-elseif.deps.json
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\if-else-elseif\bin\Debug\net5.0\if-else-elseif.runtimeconfig.json
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\if-else-elseif\bin\Debug\net5.0\if-else-elseif.runtimeconfig.dev.json
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\if-else-elseif\bin\Debug\net5.0\if-else-elseif.dll
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\if-else-elseif\bin\Debug\net5.0\ref\if-else-elseif.dll
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\if-else-elseif\bin\Debug\net5.0\if-else-elseif.pdb
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\if-else-elseif\obj\Debug\net5.0\if-else-elseif.csproj.AssemblyReference.cache
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\if-else-elseif\obj\Debug\net5.0\if-else-elseif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\if-else-elseif\obj\Debug\net5.0\if-else-elseif.AssemblyInfoInputs.cache
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\if-else-elseif\obj\Debug\net5.0\if-else-elseif.AssemblyInfo.cs
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\if-else-elseif\obj\Debug\net5.0\if-else-elseif.csproj.CoreCompileInputs.cache
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\if-else-elseif\obj\Debug\net5.0\if-else-elseif.dll
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\if-else-elseif\obj\Debug\net5.0\ref\if-else-elseif.dll
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\if-else-elseif\obj\Debug\net5.0\if-else-elseif.pdb
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\if-else-elseif\obj\Debug\net5.0\if-else-elseif.genruntimeconfig.cache
