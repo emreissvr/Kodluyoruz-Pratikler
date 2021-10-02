@@ -11,4 +11,5 @@
   <li>For Loop - Break and Continue Statement</li> 
   <li>While-Foreach Loop</li> 
   <li>Arrays</li> 
+  <li>Methods of The Array Class</li> 
 </ol>
