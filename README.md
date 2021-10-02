@@ -1,5 +1,6 @@
 # Pratikler
 <ol>
+  <li>README.md</li> 
   <li>Console Programming</li> 
   <li>Variables</li> 
   <li>Operators</li> 
