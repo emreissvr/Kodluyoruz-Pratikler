@@ -10,5 +10,5 @@
   <li>Switch-Case Statements</li> 
   <li>For Loop - Break and Continue Statement</li> 
   <li>While-Foreach Loop</li> 
-  <liArrays</li> 
+  <li>Arrays</li> 
 </ol>
