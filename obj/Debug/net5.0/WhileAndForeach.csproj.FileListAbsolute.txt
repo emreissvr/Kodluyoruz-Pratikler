@@ -1,0 +1,16 @@
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\WhileAndForeach\bin\Debug\net5.0\WhileAndForeach.exe
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\WhileAndForeach\bin\Debug\net5.0\WhileAndForeach.deps.json
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\WhileAndForeach\bin\Debug\net5.0\WhileAndForeach.runtimeconfig.json
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\WhileAndForeach\bin\Debug\net5.0\WhileAndForeach.runtimeconfig.dev.json
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\WhileAndForeach\bin\Debug\net5.0\WhileAndForeach.dll
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\WhileAndForeach\bin\Debug\net5.0\ref\WhileAndForeach.dll
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\WhileAndForeach\bin\Debug\net5.0\WhileAndForeach.pdb
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\WhileAndForeach\obj\Debug\net5.0\WhileAndForeach.csproj.AssemblyReference.cache
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\WhileAndForeach\obj\Debug\net5.0\WhileAndForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\WhileAndForeach\obj\Debug\net5.0\WhileAndForeach.AssemblyInfoInputs.cache
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\WhileAndForeach\obj\Debug\net5.0\WhileAndForeach.AssemblyInfo.cs
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\WhileAndForeach\obj\Debug\net5.0\WhileAndForeach.csproj.CoreCompileInputs.cache
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\WhileAndForeach\obj\Debug\net5.0\WhileAndForeach.dll
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\WhileAndForeach\obj\Debug\net5.0\ref\WhileAndForeach.dll
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\WhileAndForeach\obj\Debug\net5.0\WhileAndForeach.pdb
+C:\Users\emreo\Desktop\Kodluyoruz\Pratikler\WhileAndForeach\obj\Debug\net5.0\WhileAndForeach.genruntimeconfig.cache
