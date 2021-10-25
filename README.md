@@ -12,4 +12,5 @@
   <li>While-Foreach Loop</li> 
   <li>Arrays</li> 
   <li>Methods of The Array Class</li> 
+  <li>Methods</li> 
 </ol>
