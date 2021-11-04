@@ -1,0 +1,16 @@
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example1(Algorithm Questions)\bin\Debug\net5.0\Example1(Algorithm Questions).exe
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example1(Algorithm Questions)\bin\Debug\net5.0\Example1(Algorithm Questions).deps.json
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example1(Algorithm Questions)\bin\Debug\net5.0\Example1(Algorithm Questions).runtimeconfig.json
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example1(Algorithm Questions)\bin\Debug\net5.0\Example1(Algorithm Questions).runtimeconfig.dev.json
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example1(Algorithm Questions)\bin\Debug\net5.0\Example1(Algorithm Questions).dll
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example1(Algorithm Questions)\bin\Debug\net5.0\ref\Example1(Algorithm Questions).dll
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example1(Algorithm Questions)\bin\Debug\net5.0\Example1(Algorithm Questions).pdb
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example1(Algorithm Questions)\obj\Debug\net5.0\Example1(Algorithm Questions).csproj.AssemblyReference.cache
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example1(Algorithm Questions)\obj\Debug\net5.0\Example1(Algorithm Questions).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example1(Algorithm Questions)\obj\Debug\net5.0\Example1(Algorithm Questions).AssemblyInfoInputs.cache
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example1(Algorithm Questions)\obj\Debug\net5.0\Example1(Algorithm Questions).AssemblyInfo.cs
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example1(Algorithm Questions)\obj\Debug\net5.0\Example1(Algorithm Questions).csproj.CoreCompileInputs.cache
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example1(Algorithm Questions)\obj\Debug\net5.0\Example1(Algorithm Questions).dll
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example1(Algorithm Questions)\obj\Debug\net5.0\ref\Example1(Algorithm Questions).dll
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example1(Algorithm Questions)\obj\Debug\net5.0\Example1(Algorithm Questions).pdb
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Example1(Algorithm Questions)\obj\Debug\net5.0\Example1(Algorithm Questions).genruntimeconfig.cache
