@@ -13,6 +13,6 @@
   <li>Arrays</li> 
   <li>Methods of The Array Class</li> 
   <li>Methods</li> 
-  <li>Recursive and Extensions Metho</li> 
+  <li>Recursive and Extensions Method</li> 
   <li> 4 Algorithm questions and answers</li>
 </ol>
