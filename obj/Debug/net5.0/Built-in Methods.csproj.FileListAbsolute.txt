@@ -1,0 +1,16 @@
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Built-in Methods\bin\Debug\net5.0\Built-in Methods.exe
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Built-in Methods\bin\Debug\net5.0\Built-in Methods.deps.json
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Built-in Methods\bin\Debug\net5.0\Built-in Methods.runtimeconfig.json
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Built-in Methods\bin\Debug\net5.0\Built-in Methods.runtimeconfig.dev.json
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Built-in Methods\bin\Debug\net5.0\Built-in Methods.dll
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Built-in Methods\bin\Debug\net5.0\ref\Built-in Methods.dll
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Built-in Methods\bin\Debug\net5.0\Built-in Methods.pdb
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Built-in Methods\obj\Debug\net5.0\Built-in Methods.csproj.AssemblyReference.cache
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Built-in Methods\obj\Debug\net5.0\Built-in Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Built-in Methods\obj\Debug\net5.0\Built-in Methods.AssemblyInfoInputs.cache
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Built-in Methods\obj\Debug\net5.0\Built-in Methods.AssemblyInfo.cs
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Built-in Methods\obj\Debug\net5.0\Built-in Methods.csproj.CoreCompileInputs.cache
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Built-in Methods\obj\Debug\net5.0\Built-in Methods.dll
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Built-in Methods\obj\Debug\net5.0\ref\Built-in Methods.dll
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Built-in Methods\obj\Debug\net5.0\Built-in Methods.pdb
+C:\Users\emreo\desktop\Kodluyoruz\Pratikler\Built-in Methods\obj\Debug\net5.0\Built-in Methods.genruntimeconfig.cache

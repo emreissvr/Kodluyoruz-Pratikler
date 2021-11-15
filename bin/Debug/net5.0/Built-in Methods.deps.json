@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Built-in Methods/1.0.0": {
+        "runtime": {
+          "Built-in Methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Built-in Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
