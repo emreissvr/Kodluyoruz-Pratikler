@@ -14,5 +14,7 @@
   <li>Methods of The Array Class</li> 
   <li>Methods</li> 
   <li>Recursive and Extensions Method</li> 
-  <li> 4 Algorithm questions and answers</li>
+  <li>4 Algorithm questions and answers</li>
+  <li>Built-in Methods</li>
+  
 </ol>
