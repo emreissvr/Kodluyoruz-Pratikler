@@ -16,5 +16,7 @@
   <li>Recursive and Extensions Method</li> 
   <li>4 Algorithm questions and answers</li>
   <li>Built-in Methods</li>
+  <li>Math and Datetime library practices</li>
+  
   
 </ol>
