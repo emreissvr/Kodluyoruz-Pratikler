@@ -1,2 +1,2 @@
 # Kodluyoruz-Pratikler
-##Encapsulation and Property
+## Encapsulation and Property
