@@ -17,6 +17,7 @@
   <li>4 Algorithm questions and answers</li>
   <li>Built-in Methods</li>
   <li>Math and Datetime library practices</li>
-  
+  <li>Classes(Instance - Field - Property)</li>
+  <li>Constructor and Default Constructor</li>
   
 </ol>
