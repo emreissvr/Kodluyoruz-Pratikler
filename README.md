@@ -19,5 +19,7 @@
   <li>Math and Datetime library practices</li>
   <li>Classes(Instance - Field - Property)</li>
   <li>Constructor and Default Constructor</li>
+  <li>Encapsulation and Property</li>
+  
   
 </ol>
