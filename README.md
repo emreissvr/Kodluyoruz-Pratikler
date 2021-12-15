@@ -20,6 +20,7 @@
   <li>Classes(Instance - Field - Property)</li>
   <li>Constructor and Default Constructor</li>
   <li>Encapsulation and Property</li>
+  <li>Static Classes and Members</li>
   
   
 </ol>
